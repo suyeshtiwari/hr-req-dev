@@ -1,0 +1,21 @@
+﻿{
+    "database": {
+        "host": "srv741.hstgr.io",
+        "port": 3306,
+        "user": "u333681812_HR_ADMIN",
+        "password": "Reqadmin@12345",
+        "database": "u333681812_HR_REQ_APP"
+    },
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
+    "emailFrom": "ravish.tiwari23@gmail.com",
+    "smtpOptions": {
+        "service": "gmail",
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "secure": false,
+        "auth": {
+            "user": "ravish.tiwari23@gmail.com",
+            "pass": "Su_yesh23"
+        }
+    }
+}
